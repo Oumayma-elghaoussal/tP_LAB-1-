@@ -1,6 +1,6 @@
 # tP_LAB-1- 
 # Importation de l’OVA dans VMware 
-L’importation d’une OVA dans VMware consiste à déployer une machine virtuelle préconfigurée à partir d’un fichier unique.
+l’importation d’une OVA dans VMware consiste à déployer une machine virtuelle préconfigurée à partir d’un fichier unique.
 <img width="616" height="646" alt="image" src="https://github.com/user-attachments/assets/41649c0a-22fb-421f-9d4d-149931ba6077" />
 # Installation Mobexler 
 
